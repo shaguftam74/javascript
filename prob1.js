@@ -13,3 +13,4 @@ function profitableGamble(prob, prize, pay) {
         return false;
 }
 console.log(profitableGamble(0.2, 50, 9));
+console.log(profitableGamble(0.2, 50, 9));
